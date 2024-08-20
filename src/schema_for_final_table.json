@@ -1,0 +1,58 @@
+[
+    {
+      "name": "CustomerID",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Email",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Phone",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Address",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Username",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Password",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "DateOfBirth",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "Gender",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "CreatedAt",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "FullName",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "UpdatedAt",
+      "type": "TIMESTAMP",
+      "mode": "REQUIRED"
+    }
+  ]
+  
